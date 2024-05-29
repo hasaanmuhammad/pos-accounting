@@ -1,2 +1,2 @@
 # pos-accounting
-REpository untuk Sistem POS Accounting 
+Repository Sistem POS Accounting berbasis Web Codeigniter 3 | Bootstrap 5
