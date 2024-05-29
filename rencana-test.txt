@@ -3,6 +3,7 @@ upload pos
 -upload ui
 -upload db
 *table pembelian
+*table chart
 upload galery
 upload museumbatik
 *db museum
