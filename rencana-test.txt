@@ -1,5 +1,7 @@
 rencana tes
 upload pos
+-upload ui
+-upload db
 upload galery
 upload perpus
 upload penggajian
