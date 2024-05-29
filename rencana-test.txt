@@ -2,9 +2,11 @@ rencana tes
 upload pos
 -upload ui
 -upload db
-*table penjualan
-*table customer
+*table pembelian
+*table chart
+upload galery
 upload museumbatik
-* table nusantara
+*db museum
 upload perpus
 upload penggajian
+upload marketsulaiman
