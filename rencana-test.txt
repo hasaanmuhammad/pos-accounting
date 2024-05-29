@@ -3,5 +3,6 @@ upload pos
 -upload ui
 -upload db
 upload galery
+upload museumbatik
 upload perpus
 upload penggajian
